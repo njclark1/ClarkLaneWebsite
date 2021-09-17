@@ -88,6 +88,7 @@ h1, h2, p {
   margin-right: 15%;
   padding: 5px;
   font-size: 60px;
+  border-radius: 8px;
 }
 
 /*Main Page Text*/
@@ -189,6 +190,7 @@ h1, h2, p {
   padding: 5px;
   margin-left: 10%;
   margin-right: 10%;
+  border-radius: 8px;
 }
 
 /*Criteria text2*/
@@ -200,6 +202,7 @@ h1, h2, p {
   padding: 5px;
   margin-left: 10%;
   margin-right: 10%;
+  border-radius: 8px;
 }
 
 
@@ -213,6 +216,7 @@ h1, h2, p {
   margin-right: 10%;
   background-color: rgb(127, 202, 252);
   color: black;
+  border-radius: 8px;
 }
 
 
